@@ -4,7 +4,7 @@ CS student at **UT Austin** who likes building things at both ends of the stack 
 
 Currently a Product Management & Analytics Intern at **Capital One**, working on credit underwriting data migration in Python/SQL/Snowflake.
 
-- 🔭 Building [**royalehistory.com**](https://royalehistory.com) — a live, multi-tenant battle-analytics platform
+- 🔭 Building [**royalehistory.com**](https://royalehistory.com) — a live, multi-tenant Clash Royale battle-analytics platform
 - ⚙️ Comfortable low in the stack: operating systems, computer architecture, and systems programming in C
 - 📱 Also ship native iOS (Swift/UIKit) and modern web (Next.js/TypeScript)
 - 🏆 2nd of 24 teams, Tracer FIRE DFIR Competition 2026 (Sandia National Labs)
@@ -13,7 +13,7 @@ Currently a Product Management & Analytics Intern at **Capital One**, working on
 
 ## 🚀 Featured Projects
 
-### [Royale History](https://github.com/kg-314/clash-royale-history) — Full-Stack Battle Analytics Platform
+### [Royale History](https://github.com/kg-314/clash-royale-history) — Full-Stack Clash Royale Battle Analytics Platform
 **`TypeScript` `Next.js` `PostgreSQL` `Supabase` `Vercel`** · 🌐 **[royalehistory.com](https://royalehistory.com)**
 
 A multi-tenant Clash Royale battle-history tracker, live in production.
