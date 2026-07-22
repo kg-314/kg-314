@@ -47,7 +47,7 @@ A native iOS scrapbook app for logging activities with photos and sharing them w
 
 Coursework and projects deep in the stack — building the layers most apps sit on top of.
 
-**Unix-Style Operating System Kernel** · `C` `x86` *(Pintos)*
+**Unix-Style Operating System Kernel** · `C` `x86`
 - Priority scheduling, **priority donation**, and thread synchronization, using randomized Bochs timing to surface race conditions
 - System calls enforcing a strict **user/kernel boundary** with user-pointer validation
 - **Virtual memory** with demand paging and clock-based eviction under constrained frame allocation
